@@ -1,0 +1,10 @@
+E:\ASP.NET\FIRST\FIRST\bin\FIRST.dll
+E:\ASP.NET\FIRST\FIRST\bin\FIRST.pdb
+E:\ASP.NET\FIRST\FIRST\bin\FIRST.xml
+E:\ASP.NET\FIRST\FIRST\obj\Debug\ResolveAssemblyReference.cache
+E:\ASP.NET\FIRST\FIRST\obj\Debug\FIRST.Resources.resources
+E:\ASP.NET\FIRST\FIRST\obj\Debug\FIRST.dll
+E:\ASP.NET\FIRST\FIRST\obj\Debug\FIRST.xml
+E:\ASP.NET\FIRST\FIRST\obj\Debug\FIRST.pdb
+E:\ASP.NET\FIRST\FIRST\obj\Debug\GenerateResource.read.1.tlog
+E:\ASP.NET\FIRST\FIRST\obj\Debug\GenerateResource.write.1.tlog

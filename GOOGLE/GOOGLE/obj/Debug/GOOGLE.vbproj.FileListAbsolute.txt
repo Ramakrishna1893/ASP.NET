@@ -1,0 +1,10 @@
+E:\ASP.NET\GOOGLE\GOOGLE\bin\GOOGLE.dll
+E:\ASP.NET\GOOGLE\GOOGLE\bin\GOOGLE.pdb
+E:\ASP.NET\GOOGLE\GOOGLE\bin\GOOGLE.xml
+E:\ASP.NET\GOOGLE\GOOGLE\obj\Debug\ResolveAssemblyReference.cache
+E:\ASP.NET\GOOGLE\GOOGLE\obj\Debug\GOOGLE.Resources.resources
+E:\ASP.NET\GOOGLE\GOOGLE\obj\Debug\GenerateResource.read.1.tlog
+E:\ASP.NET\GOOGLE\GOOGLE\obj\Debug\GenerateResource.write.1.tlog
+E:\ASP.NET\GOOGLE\GOOGLE\obj\Debug\GOOGLE.dll
+E:\ASP.NET\GOOGLE\GOOGLE\obj\Debug\GOOGLE.xml
+E:\ASP.NET\GOOGLE\GOOGLE\obj\Debug\GOOGLE.pdb

@@ -1,0 +1,10 @@
+E:\ASP.NET\IMAGE_URL\IMAGE_URL\bin\IMAGE_URL.dll
+E:\ASP.NET\IMAGE_URL\IMAGE_URL\bin\IMAGE_URL.pdb
+E:\ASP.NET\IMAGE_URL\IMAGE_URL\bin\IMAGE_URL.xml
+E:\ASP.NET\IMAGE_URL\IMAGE_URL\obj\Debug\ResolveAssemblyReference.cache
+E:\ASP.NET\IMAGE_URL\IMAGE_URL\obj\Debug\IMAGE_URL.Resources.resources
+E:\ASP.NET\IMAGE_URL\IMAGE_URL\obj\Debug\GenerateResource.read.1.tlog
+E:\ASP.NET\IMAGE_URL\IMAGE_URL\obj\Debug\GenerateResource.write.1.tlog
+E:\ASP.NET\IMAGE_URL\IMAGE_URL\obj\Debug\IMAGE_URL.dll
+E:\ASP.NET\IMAGE_URL\IMAGE_URL\obj\Debug\IMAGE_URL.xml
+E:\ASP.NET\IMAGE_URL\IMAGE_URL\obj\Debug\IMAGE_URL.pdb

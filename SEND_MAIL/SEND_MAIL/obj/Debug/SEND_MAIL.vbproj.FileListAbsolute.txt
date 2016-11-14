@@ -1,0 +1,10 @@
+E:\ASP.NET\SEND_MAIL\SEND_MAIL\bin\SEND_MAIL.dll
+E:\ASP.NET\SEND_MAIL\SEND_MAIL\bin\SEND_MAIL.pdb
+E:\ASP.NET\SEND_MAIL\SEND_MAIL\bin\SEND_MAIL.xml
+E:\ASP.NET\SEND_MAIL\SEND_MAIL\obj\Debug\ResolveAssemblyReference.cache
+E:\ASP.NET\SEND_MAIL\SEND_MAIL\obj\Debug\SEND_MAIL.Resources.resources
+E:\ASP.NET\SEND_MAIL\SEND_MAIL\obj\Debug\GenerateResource.read.1.tlog
+E:\ASP.NET\SEND_MAIL\SEND_MAIL\obj\Debug\GenerateResource.write.1.tlog
+E:\ASP.NET\SEND_MAIL\SEND_MAIL\obj\Debug\SEND_MAIL.dll
+E:\ASP.NET\SEND_MAIL\SEND_MAIL\obj\Debug\SEND_MAIL.xml
+E:\ASP.NET\SEND_MAIL\SEND_MAIL\obj\Debug\SEND_MAIL.pdb

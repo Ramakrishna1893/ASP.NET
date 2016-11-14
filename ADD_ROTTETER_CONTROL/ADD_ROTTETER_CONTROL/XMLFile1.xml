@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/myImages/k.gif</ImageUrl>
+    <NavigateUrl>~/FOURTH.aspx</NavigateUrl>
+    <AlternateText>HOTMAIL</AlternateText>
+     <Keyword>HOTMAIL</Keyword>
+  </Ad>
+
+
+  <Ad>
+    <ImageUrl>~/myImages/E.png</ImageUrl>
+    <NavigateUrl>~/SECOND.aspx</NavigateUrl>
+    <AlternateText>HOTMAIL</AlternateText>
+    <Keyword>HOTMAIL</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/myImages/kaushal.jpg</ImageUrl>
+    <NavigateUrl>THIRD.aspx</NavigateUrl>
+    <AlternateText>HOTMAIL</AlternateText>
+    <Keyword>HOTMAIL</Keyword>
+  </Ad>
+  
+</Advertisements>

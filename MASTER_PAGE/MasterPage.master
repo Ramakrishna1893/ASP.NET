@@ -1,0 +1,113 @@
+﻿<%@ Master Language="VB" CodeFile="MasterPage.master.vb" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <style type="text/css">
+        .style1
+        {
+            width: 94%;
+            height: 584px;
+        }
+        .style7
+        {
+            width: 194px;
+            height: 82px;
+        }
+        .style8
+        {
+            height: 82px;
+            font-size: x-small;
+            font-style: italic;
+        }
+        .style6
+        {
+            width: 194px;
+        }
+        .style4
+        {
+            height: 29px;
+        }
+        .style5
+        {
+            height: 333px;
+            text-align: left;
+        }
+        .style9
+        {
+            text-align: center;
+            color: #CC0066;
+        }
+        .style10
+        {
+            height: 23px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server" style="border: thin solid #000080;">
+    <table class="style1" border="15">
+        <tr>
+            <td class="style7">
+                <asp:ImageButton ID="ImageButton1" runat="server" Height="68px" 
+                    ImageUrl="~/C.png" Width="154px" />
+            </td>
+            <td class="style8">
+                <h1 class="style9">
+                    SOMLALIT INSTITUTE OF COMPUTER APPLICATION</h1>
+            </td>
+        </tr>
+        <tr>
+            <td class="style6" rowspan="2" style="vertical-align: top">
+                <br />
+                <br />
+                <br />
+                <asp:TreeView ID="TreeView1" runat="server" DataSourceID="SiteMapDataSource1" 
+                    ImageSet="Contacts" NodeIndent="10" Width="249px">
+                    <HoverNodeStyle Font-Underline="False" />
+                    <NodeStyle Font-Names="Verdana" Font-Size="8pt" ForeColor="Black" 
+                        HorizontalPadding="5px" NodeSpacing="0px" VerticalPadding="0px" />
+                    <ParentNodeStyle Font-Bold="True" ForeColor="#5555DD" />
+                    <SelectedNodeStyle Font-Underline="True" HorizontalPadding="0px" 
+                        VerticalPadding="0px" />
+                </asp:TreeView>
+                <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
+                <br />
+            </td>
+            <td class="style4">
+                <asp:SiteMapPath ID="SiteMapPath1" runat="server">
+                </asp:SiteMapPath>
+            </td>
+        </tr>
+        <tr>
+            <td class="style5" style="vertical-align: top">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    <p>
+                        <br />
+                    </p>
+                    <p>
+                    </p>
+                    <p>
+                    </p>
+                    <p>
+                    </p>
+                    <p>
+                    </p>
+                    <p>
+                    </p>
+                </asp:ContentPlaceHolder>
+            </td>
+        </tr>
+        <tr>
+            <td class="style10" colspan="2">
+                Copy Write ©</td>
+        </tr>
+    </table>
+    <div>
+    
+    </div>
+    </form>
+</body>
+</html>

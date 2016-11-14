@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="" title="Som-Lalit"  description="Som-Lalit">
+        <siteMapNode url="~/COLLEGE/Detail.aspx" title="Detail"  description="Detail Of Student" />
+        <siteMapNode url="~/COLLEGE/Modify.aspx" title="Modeify"  description="Update Of Student" />
+    </siteMapNode>
+</siteMap>

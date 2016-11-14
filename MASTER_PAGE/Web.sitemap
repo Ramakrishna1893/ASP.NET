@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="" title="SOM-LALIT"  description="SOM-LALIT INSTITUTE OF COMPUTER APPLICATION">
+      <siteMapNode url="~/Default.aspx" title="BCA"  description="Batchelar Of Computer Application">
+        <siteMapNode url="~/BCA/BCA_Content.aspx" title="Content" description="Context Of Bca"></siteMapNode>
+        <siteMapNode url="~/BCA/BCA_Admission.aspx" title="Admission" description="Context Of Bca"></siteMapNode>
+        <siteMapNode url="~/BCA/BCA_Faculty.aspx" title="Faculty" description="Context Of Bca"></siteMapNode>
+      </siteMapNode>
+      <siteMapNode url="~/Default2.aspx" title="MBA"  description="MASTER OF BUSINESS MANAGEMENT">
+        <siteMapNode url="~/MBA/MBA_Content.aspx" title="Content" description="Context Of Bca"></siteMapNode>
+        <siteMapNode url="~/MBA/MBA_Admission.aspx" title="Admission" description="Context Of Bca"></siteMapNode>
+        <siteMapNode url="~/MBA/MBA_Faculty.aspx" title="Faculty" description="Context Of Bca"></siteMapNode>
+      </siteMapNode>
+
+    </siteMapNode>
+</siteMap>

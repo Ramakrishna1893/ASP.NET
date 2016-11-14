@@ -1,0 +1,10 @@
+E:\ASP.NET\LOGIN_1\LOGIN_1\bin\LOGIN_1.dll
+E:\ASP.NET\LOGIN_1\LOGIN_1\bin\LOGIN_1.pdb
+E:\ASP.NET\LOGIN_1\LOGIN_1\bin\LOGIN_1.xml
+E:\ASP.NET\LOGIN_1\LOGIN_1\obj\Debug\ResolveAssemblyReference.cache
+E:\ASP.NET\LOGIN_1\LOGIN_1\obj\Debug\LOGIN_1.Resources.resources
+E:\ASP.NET\LOGIN_1\LOGIN_1\obj\Debug\GenerateResource.read.1.tlog
+E:\ASP.NET\LOGIN_1\LOGIN_1\obj\Debug\GenerateResource.write.1.tlog
+E:\ASP.NET\LOGIN_1\LOGIN_1\obj\Debug\LOGIN_1.dll
+E:\ASP.NET\LOGIN_1\LOGIN_1\obj\Debug\LOGIN_1.xml
+E:\ASP.NET\LOGIN_1\LOGIN_1\obj\Debug\LOGIN_1.pdb
